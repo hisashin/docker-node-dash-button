@@ -3,6 +3,8 @@
 Please use [hisashin/rpi-node-dash-button](https://hub.docker.com/r/hisashin/rpi-node-dash-button/) if it's Raspberry Pi.
 
 Based on [node-dash-button](https://github.com/hortinstein/node-dash-button#first-time-dash-setup). Great work!
+The MIT License (MIT)
+Copyright (c) 2016 Alex Hortin
 
 * First time Dash Setup
 * Run This Image
