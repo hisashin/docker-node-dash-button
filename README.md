@@ -1,6 +1,6 @@
 [Github](https://github.com/hisashin/docker-node-dash-button), [DockerHub](https://hub.docker.com/r/hisashin/node-dash-button/)
 
-Please use [hisashin/node-dash-button](https://hub.docker.com/r/hisashin/node-dash-button/) if it's not Raspberry Pi.
+Please use [hisashin/rpi-node-dash-button](https://hub.docker.com/r/hisashin/rpi-node-dash-button/) if it's Raspberry Pi.
 
 Based on [node-dash-button](https://github.com/hortinstein/node-dash-button#first-time-dash-setup). Great work!
 
